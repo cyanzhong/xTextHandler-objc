@@ -3,7 +3,7 @@ xTextHandler has been rewrite in Swift, Swift version can be found in: https://g
 
 ⚠️Objective-C version is no long under maintenance
 
-🇨🇳[中文介绍https://github.com/cyanzhong/xTextHandler-objc/blob/master/README_CN.mdmd)
+🇨🇳[中文介绍](https://github.com/cyanzhong/xTextHandler-objc/blob/master/README_CN.md)
 
 # xTextHandler
 Xcode Source Editor Extension Toolset (Plugins for Xcode 8)
