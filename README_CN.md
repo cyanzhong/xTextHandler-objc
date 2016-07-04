@@ -17,7 +17,7 @@ Xcode Source Editor 插件集
 - 提供基于正则表达式的匹配
 
 ## xEncode
-![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler/master/GIFs/xEncode.gif)
+![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler-objc/master/GIFs/xEncode.gif)
 - Base64 Encode
 - Base64 Decode
 - URL Encode
@@ -31,20 +31,20 @@ Xcode Source Editor 插件集
 - QR Code
 
 ## xRadix
-![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler/master/GIFs/xRadix.gif)
+![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler-objc/master/GIFs/xRadix.gif)
 - Hex
 - Bin
 - Oct
 - Dec
 
 ## xColor
-![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler/master/GIFs/xColor.gif)
+![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler-objc/master/GIFs/xColor.gif)
 - Hex
 - RGB
 - Preview
 
 ## xSearch
-![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler/master/GIFs/xSearch.gif)
+![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler-objc/master/GIFs/xSearch.gif)
 - Google
 - Translate
 - Developer
@@ -54,7 +54,7 @@ Xcode Source Editor 插件集
 - Dictionary
 
 ## xFormat
-![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler/master/GIFs/xFormat.gif)
+![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler-objc/master/GIFs/xFormat.gif)
 - JSON
 - XML
 - CSS
@@ -111,7 +111,6 @@ Xcode Source Editor 插件集
 - 错误处理
 - App 配置面板
 - JavaScript 组件
-- 使用 Swift 重写项目
 
 # 温馨提示
 因为目前 Xcode 8.0 beta (8S128d) 是非常不稳定的，你在编译运行项目后可能在 Editor 里面找不到菜单 :(
