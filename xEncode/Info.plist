@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>xEncode</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>XPC!</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>$(MACOSX_DEPLOYMENT_TARGET)</string>
+	<key>NSExtension</key>
+	<dict>
+		<key>NSExtensionAttributes</key>
+		<dict>
+			<key>XCSourceEditorCommandDefinitions</key>
+			<array>
+				<dict>
+					<key>XCSourceEditorCommandClassName</key>
+					<string>xEncodeCommand</string>
+					<key>XCSourceEditorCommandIdentifier</key>
+					<string>xencode.base64encode</string>
+					<key>XCSourceEditorCommandName</key>
+					<string>Base64 Encode</string>
+				</dict>
+				<dict>
+					<key>XCSourceEditorCommandClassName</key>
+					<string>xEncodeCommand</string>
+					<key>XCSourceEditorCommandIdentifier</key>
+					<string>xencode.base64decode</string>
+					<key>XCSourceEditorCommandName</key>
+					<string>Base64 Decode</string>
+				</dict>
+				<dict>
+					<key>XCSourceEditorCommandClassName</key>
+					<string>xEncodeCommand</string>
+					<key>XCSourceEditorCommandIdentifier</key>
+					<string>xencode.urlencode</string>
+					<key>XCSourceEditorCommandName</key>
+					<string>URL Encode</string>
+				</dict>
+				<dict>
+					<key>XCSourceEditorCommandClassName</key>
+					<string>xEncodeCommand</string>
+					<key>XCSourceEditorCommandIdentifier</key>
+					<string>xencode.urldecode</string>
+					<key>XCSourceEditorCommandName</key>
+					<string>URL Decode</string>
+				</dict>
+				<dict>
+					<key>XCSourceEditorCommandClassName</key>
+					<string>xEncodeCommand</string>
+					<key>XCSourceEditorCommandIdentifier</key>
+					<string>xencode.uppercase</string>
+					<key>XCSourceEditorCommandName</key>
+					<string>Upper Case</string>
+				</dict>
+				<dict>
+					<key>XCSourceEditorCommandClassName</key>
+					<string>xEncodeCommand</string>
+					<key>XCSourceEditorCommandIdentifier</key>
+					<string>xencode.lowercase</string>
+					<key>XCSourceEditorCommandName</key>
+					<string>Lower Case</string>
+				</dict>
+				<dict>
+					<key>XCSourceEditorCommandClassName</key>
+					<string>xEncodeCommand</string>
+					<key>XCSourceEditorCommandIdentifier</key>
+					<string>xencode.escape</string>
+					<key>XCSourceEditorCommandName</key>
+					<string>Escape</string>
+				</dict>
+				<dict>
+					<key>XCSourceEditorCommandClassName</key>
+					<string>xEncodeCommand</string>
+					<key>XCSourceEditorCommandIdentifier</key>
+					<string>xencode.md5</string>
+					<key>XCSourceEditorCommandName</key>
+					<string>MD5</string>
+				</dict>
+				<dict>
+					<key>XCSourceEditorCommandClassName</key>
+					<string>xEncodeCommand</string>
+					<key>XCSourceEditorCommandIdentifier</key>
+					<string>xencode.sha1</string>
+					<key>XCSourceEditorCommandName</key>
+					<string>SHA1</string>
+				</dict>
+				<dict>
+					<key>XCSourceEditorCommandClassName</key>
+					<string>xEncodeCommand</string>
+					<key>XCSourceEditorCommandIdentifier</key>
+					<string>xencode.sha256</string>
+					<key>XCSourceEditorCommandName</key>
+					<string>SHA256</string>
+				</dict>
+				<dict>
+					<key>XCSourceEditorCommandClassName</key>
+					<string>xEncodeCommand</string>
+					<key>XCSourceEditorCommandIdentifier</key>
+					<string>xencode.qrcode</string>
+					<key>XCSourceEditorCommandName</key>
+					<string>QR Code</string>
+				</dict>
+			</array>
+			<key>XCSourceEditorExtensionPrincipalClass</key>
+			<string>xEncodeExtension</string>
+		</dict>
+		<key>NSExtensionPointIdentifier</key>
+		<string>com.apple.dt.Xcode.extension.source-editor</string>
+	</dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2016年 cyan. All rights reserved.</string>
+</dict>
+</plist>
