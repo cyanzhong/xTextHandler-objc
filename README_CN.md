@@ -1,3 +1,8 @@
+# Let's Swift!
+xTextHandler 已经完全使用 Swift 重写，你可以在这里找到 Swift 版本：https://github.com/cyanzhong/xTextHandler
+
+⚠️Objective-C 版本将不再维护
+
 # xTextHandler
 Xcode Source Editor 插件集
 
