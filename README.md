@@ -3,7 +3,7 @@ xTextHandler has been rewrite in Swift, Swift version can be found in: https://g
 
 ⚠️Objective-C version is no long under maintenance
 
-🇨🇳[中文介绍](https://github.com/cyanzhong/xTextHandler/blob/master/README_CN.md)
+🇨🇳[中文介绍https://github.com/cyanzhong/xTextHandler-objc/blob/master/README_CN.mdmd)
 
 # xTextHandler
 Xcode Source Editor Extension Toolset (Plugins for Xcode 8)
@@ -19,7 +19,7 @@ Xcode Source Editor Extension Toolset (Plugins for Xcode 8)
 - Regular Expression Matching
 
 ## xEncode
-![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler/master/GIFs/xEncode.gif)
+![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler-objc/master/GIFs/xEncode.gif)
 - Base64 Encode
 - Base64 Decode
 - URL Encode
@@ -33,20 +33,20 @@ Xcode Source Editor Extension Toolset (Plugins for Xcode 8)
 - QR Code
 
 ## xRadix
-![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler/master/GIFs/xRadix.gif)
+![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler-objc/master/GIFs/xRadix.gif)
 - Hex
 - Bin
 - Oct
 - Dec
 
 ## xColor
-![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler/master/GIFs/xColor.gif)
+![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler-objc/master/GIFs/xColor.gif)
 - Hex
 - RGB
 - Preview
 
 ## xSearch
-![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler/master/GIFs/xSearch.gif)
+![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler-objc/master/GIFs/xSearch.gif)
 - Google
 - Translate
 - Developer
@@ -56,7 +56,7 @@ Xcode Source Editor Extension Toolset (Plugins for Xcode 8)
 - Dictionary
 
 ## xFormat
-![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler/master/GIFs/xFormat.gif)
+![image](https://raw.githubusercontent.com/cyanzhong/xTextHandler-objc/master/GIFs/xFormat.gif)
 - JSON
 - XML
 - CSS
@@ -113,7 +113,6 @@ Thanks to: [vkBeautify](https://github.com/vkiryukhin/vkBeautify)
 - Error handling
 - Preferences panel
 - JavaScript for text handling
-- Rewrite using Swift
 
 # Tips
 Since Xcode 8.0 beta (8S128d) is totally unstable now, you may see nothing after you build & run this project :(
