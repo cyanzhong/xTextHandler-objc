@@ -1,7 +1,7 @@
 # Let's Swift!
 xTextHandler has been rewrite in Swift, Swift version can be found in: https://github.com/cyanzhong/xTextHandler
 
-⚠️Objective-C version is no long under maintenance
+⚠️Objective-C version is no longer under maintenance
 
 🇨🇳[中文介绍](https://github.com/cyanzhong/xTextHandler-objc/blob/master/README_CN.md)
 
